@@ -40,6 +40,7 @@ The objective of this project is to analyze healthcare claims data to:
 ### Executive Summary
 
 One of the most important metrics uncovered from this dataset is the Denial Rate.  Across its three main statuses of paid, denied, and partially paid, there exists an almost even split percentage across them with the denial rate being 33.1%, paid claims at 35.7%, and partially paid claims at 31.2%.
+
 <img width="528" height="565" alt="image" src="https://github.com/user-attachments/assets/14a9f004-8d48-4c48-bd7c-03c56a5a4405" />
 
 

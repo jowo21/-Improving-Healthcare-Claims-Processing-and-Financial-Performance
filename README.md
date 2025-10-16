@@ -34,7 +34,8 @@ The objective of this project is to analyze healthcare claims data to:
 | outcome | string |
 - Is composed of 15 columns and 1000 rows
 - Data was collected between May and September of 2024
-- The SQL code generated to perform exploratory data analysis can be found [here}( )
+- The SQL code generated to perform exploratory data analysis can be found [here](https://github.com/jowo21/-Optimizing-Healthcare-Claims-Processing-and-Financial-Performance-through-Data-Analysis/blob/main/claims%20data%20EDA.sql)
+
 
 ### Executive Summary
 

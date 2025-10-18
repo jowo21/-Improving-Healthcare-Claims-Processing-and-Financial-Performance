@@ -61,7 +61,7 @@ One of the most important metrics uncovered from this dataset is the Denial Rate
 <br>
 
 
-One of the most impactful metrics on denials is having incorrect billing information.  
+The most impactful metric on denials is having incorrect billing information.  
 
 | Reason Code | Number Denied | Percent denied |
 | --- | --- | --- |

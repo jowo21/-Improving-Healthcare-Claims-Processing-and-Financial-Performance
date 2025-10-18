@@ -5,6 +5,11 @@ Healthcare claims are a critical component of the financial and operational ecos
 
 With the increasing volume of claims and complexity of insurance processes, a thorough analysis can be leveraged to gain insights into claims performance, identify revenue leakage, and uncover patterns behind denials and payment delays.
 
+<br>
+<br>
+
+---
+
 ### **Project Objectives**
 
 The objective of this project is to analyze healthcare claims data to:
@@ -12,6 +17,11 @@ The objective of this project is to analyze healthcare claims data to:
 1. **Identify patterns in claim denials and underpayments**
 2. **Predict claim outcomes and delays**
 3. Provide actionable insights for stakeholders to reduce processing time, minimize denials, and enhance revenue cycle performance.
+
+<br>
+<br>
+
+---
 
 ### About the Dataset
 
@@ -36,12 +46,19 @@ The objective of this project is to analyze healthcare claims data to:
 - Data was collected between May and September of 2024
 - The SQL code generated to perform exploratory data analysis can be found [here](https://github.com/jowo21/-Optimizing-Healthcare-Claims-Processing-and-Financial-Performance-through-Data-Analysis/blob/main/claims%20data%20EDA.sql)
 
+<br>
+<br>
+
+---
 
 ### Executive Summary
 
 One of the most important metrics uncovered from this dataset is the Denial Rate.  Across its three main statuses of paid, denied, and partially paid, there exists an almost even split percentage across them with the denial rate being 33.1%, paid claims at 35.7%, and partially paid claims at 31.2%.
 
 <img width="528" height="565" alt="image" src="https://github.com/user-attachments/assets/14a9f004-8d48-4c48-bd7c-03c56a5a4405" />
+
+<br>
+<br>
 
 
 One of the most impactful metrics on denials is having incorrect billing information.  
@@ -76,6 +93,11 @@ The metrics that had the most impact on claim delays are reason codes with Incor
 | Lack of medical necessity | 59 | 55.14 |
 | Service not covered | 55 | 49.55 |
 
+<br>
+<br>
+
+---
+
 ### Other Insights based on Key Performance Indicators
 
 - Assessing underpayments (currently defined as having a paid claim amount less than half of the billing amount for a line item) only accounted for 0.6% of the claims in this dataset.  The following claims met that criteria:
@@ -89,7 +111,11 @@ The metrics that had the most impact on claim delays are reason codes with Incor
 | YCS97XY0NS | 2024-05-21 | Commercial | 475 | 237 |
 | XIP1J1DOJA | 2024-05-11 | Commercial | 470 | 231 |
 
+<br>
+
 - The Payment Ratio (ratio of total billed amounts to total paid amounts) is 1.48 which reflects that there was no evidence in overpayments made.
+
+<br>
 
 - The Denial Rate by Procedure Codes and the percentages of denials did not reflect much variance among them, therefore not being much of a determining factor in identifying denial trends:
 
@@ -106,6 +132,8 @@ The metrics that had the most impact on claim delays are reason codes with Incor
 | 99213 | 27 | 27% |
 | 99222 | 24 | 27% |
 
+<br>
+
 - There was not much variance between the reason codes and their respective denial rates except for Authorizations Not Obtained category having a significantly lower rate than the others:
 
 | Reason code | Number Denied | Denial rate |
@@ -119,6 +147,8 @@ The metrics that had the most impact on claim delays are reason codes with Incor
 | Incorrect billing information | 12 | 31% |
 | Authorization not obtained | 10 | 17% |
 
+<br>
+
 - The type of insurance did not have a major factor on denial rates because each type reflected roughly the same rate:
 
 | Insurance Type | number paid | number partially paid | number denied | percent denied |
@@ -127,6 +157,8 @@ The metrics that had the most impact on claim delays are reason codes with Incor
 | Medicare | 156 | 70 | 77 | 33% |
 | Commercial | 171 | 76 | 88 | 34% |
 | Medicaid | 181 | 79 | 78 | 30% |
+
+<br>
 
 Increasing compliance of the self-pay patients to obtain insurance coverage may help to decrease and eventually eliminate that demographic’s denial rate 
 
@@ -164,6 +196,11 @@ Increasing compliance of the self-pay patients to obtain insurance coverage may 
 | A03.0 | 6 | 75.00% |
 | A16.3 | 8 | 72.73% |
 | A18.8 | 8 | 72.73% |
+
+<br>
+<br> 
+
+---
 
 ### Recommendations
 

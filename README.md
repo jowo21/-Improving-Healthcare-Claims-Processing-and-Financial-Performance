@@ -25,7 +25,7 @@ The objective of this project is to analyze healthcare claims data to:
 
 ### About the Dataset
 
-- The dataset structure and dictionary can be found [here]()
+- The dataset structure and dictionary can be found [here](https://github.com/jowo21/-Improving-Healthcare-Claims-Processing-and-Financial-Performance/blob/main/about_dataset.md)
 - The SQL code generated to perform exploratory data analysis can be found [here](https://github.com/jowo21/-Optimizing-Healthcare-Claims-Processing-and-Financial-Performance-through-Data-Analysis/blob/main/claims%20data%20EDA.sql)
 
 <br>

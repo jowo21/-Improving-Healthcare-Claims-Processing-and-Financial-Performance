@@ -97,12 +97,20 @@ The findings indicate that **administrative inefficiencies in claims processing 
 - Similar to the Denial Rate, Patient Eligibility issues and Incorrect billing information were the largest contributing factors to delays.
 <img width="851" height="338" alt="image" src="https://github.com/user-attachments/assets/5adfb088-8db7-4780-ae6e-8af7a83ce78e" />
 
+<br>
+<br>
+
 - There was not much difference between delays by procedure code. The top 3 procedure codes that led to the most delays were 99231 , 99221, and 99215
 <img width="832" height="530" alt="image" src="https://github.com/user-attachments/assets/9050008e-f9fc-46bf-9558-86853e697d4d" />
 
+<br>
+<br>
 
  - Although there was not much variance between the Insurance types and their delay amounts, Medicaid had the highest number of delays at 142
 <img width="762" height="323" alt="image" src="https://github.com/user-attachments/assets/1df095fe-84f4-4f10-ad1e-a72abc8a5806" />
+
+<br>
+<br>
 
  - There also was not much difference between the Top 5 Diagnosis codes and the amount of delays, however with A05.4 having the highest amount, it may need to be monitored for improvements:
 <img width="783" height="397" alt="image" src="https://github.com/user-attachments/assets/17861f3b-066e-4054-8097-572064dbe0b8" />
@@ -119,6 +127,9 @@ The findings indicate that **administrative inefficiencies in claims processing 
 
 - Over time, the average adjustment percentage slightly decreased:
 <img width="785" height="465" alt="image" src="https://github.com/user-attachments/assets/774e7390-6dbc-417e-8992-f9c1b960e2a3" />
+
+<br>
+<br>
 
 - The collection rate (paid amounts/billing amounts) slightly increased over time
 <img width="811" height="450" alt="image" src="https://github.com/user-attachments/assets/28916c00-7a75-4ea6-a39b-aaacea7839b5" />

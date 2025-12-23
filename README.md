@@ -196,9 +196,6 @@ The findings indicate that **administrative inefficiencies in claims processing 
 
 ---
 
-### 
-
----
 
 ### **4. Validate Findings and Track Improvement Through Extended Data Collection**
 

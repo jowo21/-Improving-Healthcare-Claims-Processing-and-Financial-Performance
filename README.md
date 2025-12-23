@@ -67,13 +67,22 @@ The findings indicate that **administrative inefficiencies in claims processing 
 
 <img width="393" height="393" alt="image" src="https://github.com/user-attachments/assets/87554f3c-36b6-45d8-9447-0fcf36253baa" />
 
+<br>
+<br>
+
  - The Denial rate of 33% lead to $65,720 of revenue not paid.
 
  - Incorrect billing information contributed to the highest percentage of denials (15.7%) which amounted to a revenue loss of $11,607 followed by Patient eligibility issues (13.6%) and $7964 revenue loss.
 <img width="862" height="387" alt="image" src="https://github.com/user-attachments/assets/bf3c27fa-19ba-466a-9dc3-aa34e99fc826" />
 
+<br>
+<br>
+
 - Denied claims did slightly decrease over time, but since the data was only collected between May and September, it does not show a strong indication of contributing factors of improvements.
 <img width="913" height="298" alt="image" src="https://github.com/user-attachments/assets/75084b24-4093-41fb-9799-1083995e2062" />
+
+<br>
+<br>
 
 - The Denials by Procedure Codes did not reflect much difference among the various codes. Procedure Code 99221 had the highest denial counts at 49 which twice the denial count of the lowest denial procedure 99222 at 24 which may require code 99221 to be a target for improvement.
 <img width="900" height="361" alt="image" src="https://github.com/user-attachments/assets/823b1157-4554-4481-aea7-fc446e16dadc" />

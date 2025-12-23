@@ -12,7 +12,7 @@ The Chief Medical Officer at ValleyCare Health System is concerned about how adm
 <br>
 <br>
 
----
+
 
 ## **Project Objectives**
 
@@ -27,7 +27,6 @@ The objective of this project is to analyze healthcare claims data to:
 <br>
 <br>
 
----
 
 ## **About the Dataset**
 
@@ -39,7 +38,6 @@ The objective of this project is to analyze healthcare claims data to:
 <br>
 <br>
 
----
 
 ## **Executive Summary**
 

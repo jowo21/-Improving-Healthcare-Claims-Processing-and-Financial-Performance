@@ -56,7 +56,7 @@ The findings indicate that **administrative inefficiencies in claims processing 
 <br>
 <br>
 
-## **Insights**
+## **Insights Deep Dive**
 
 ### Denial Analysis
 

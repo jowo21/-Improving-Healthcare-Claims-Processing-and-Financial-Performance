@@ -18,8 +18,8 @@ The Chief Medical Officer at ValleyCare Health System is concerned about how adm
 
 The objective of this project is to analyze healthcare claims data to:
 
-1. **Identify patterns in claim denials and underpayments**
-2. **Predict claim outcomes and delays**
+1. Identify patterns in claim denials and underpayments
+2. Predict claim outcomes and delays
 3. Provide actionable insights for stakeholders to reduce processing time, minimize denials, and enhance revenue cycle performance.
 
 <br>

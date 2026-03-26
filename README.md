@@ -206,7 +206,7 @@ The findings indicate that **administrative inefficiencies in claims processing 
 - Use the expanded dataset to confirm trend stability and seasonal effects
 - Measure the impact of implemented changes on financial performance and operational efficiency
 
-**Expected Impact:**
+**Expected Impacts:**
 
 - Obtain more reliable insights
 - Increase confidence in prioritization decisions
